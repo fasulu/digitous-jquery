@@ -1,3 +1,3 @@
-$("p").onClick(function(){
-    $("#text").css("display", "visible");
+$("button").click(function(){
+    $("#text").toggle();
 });
