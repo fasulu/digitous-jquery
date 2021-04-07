@@ -32,6 +32,10 @@ body {
     color: #000000;
 }
 
+.exercisetxt {
+    float: right;
+}
+
 #exercise #square {
     height: 100px;
     width: 100px;
